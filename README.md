@@ -19,7 +19,7 @@
 
 <br />
 
-Hi, I'm [Thomas W.](https://blog.abhisheknaidu.tech/) (aka. ToolReaz), a passionate IT Engineering student 🚀 from France.
+Hi, I'm [Thomas W.](https://toolreaz.space/) (aka. ToolReaz), a passionate IT Engineering student 🚀 from France.
 
 **Talking about Personal Stuffs:**
 
