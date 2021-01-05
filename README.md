@@ -6,8 +6,6 @@
   <img align="left" alt="ToolReaz's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 Hi, I'm [Thomas W.](https://toolreaz.space/) (aka. ToolReaz), a passionate IT Engineering student 🚀 from France.
