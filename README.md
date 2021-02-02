@@ -14,4 +14,12 @@ Hi, I'm [Thomas W.](https://toolreaz.space/) (aka. ToolReaz), a passionate IT En
 <br />
 <br />
 
+## Languages & Frameworks
+- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="32"> JavaScript
+- HTML
+- CSS
+- NodeJS
+- React
+- NextJS
+
 **Work in progress...**
