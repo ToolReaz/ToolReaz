@@ -14,12 +14,15 @@ Hi, I'm [Thomas W.](https://toolreaz.space/) (aka. ToolReaz), a passionate IT En
 <br />
 <br />
 
-## Languages & Frameworks
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="32"> JavaScript
-- HTML
-- CSS
-- NodeJS
-- React
-- NextJS
+## My tech stack
+![](https://img.shields.io/badge/OS-ArchLinux-blueviolet?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-blueviolet?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-blueviolet?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-HTML-blueviolet?style=flat&logo=html&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-CSS-blueviolet?style=flat&logo=css&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-NodeJS-blueviolet?style=flat&logo=node&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-blueviolet?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-blueviolet?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-blueviolet?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 **Work in progress...**
