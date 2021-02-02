@@ -34,11 +34,11 @@ Hi, I'm [Thomas W.](https://toolreaz.space/) (aka. ToolReaz), a passionate IT En
 
 ### Tools
 ![Docker](https://img.shields.io/static/v1?message=Docker&logo=docker&labelColor=5c5c5c&color=blueviolet&logoColor=white&label=%20&style=for-the-badge)
-![NodeRED](https://img.shields.io/static/v1?message=NodeRED&logo=mode-red&labelColor=5c5c5c&color=blueviolet&logoColor=white&label=%20&style=for-the-badge)
-![Office](https://img.shields.io/static/v1?message=Office&logo=office&labelColor=5c5c5c&color=blueviolet&logoColor=white&label=%20&style=for-the-badge)
+![NodeRED](https://img.shields.io/static/v1?message=NodeRED&logo=node-red&labelColor=5c5c5c&color=blueviolet&logoColor=white&label=%20&style=for-the-badge)
+![Office](https://img.shields.io/static/v1?message=Office&logo=microsoft-office&labelColor=5c5c5c&color=blueviolet&logoColor=white&label=%20&style=for-the-badge)
 
 
 ### Misc
-![OS](https://img.shields.io/static/v1?message=ArchLinux&logo=archl-inux&labelColor=5c5c5c&color=blueviolet&logoColor=white&label=OS&style=for-the-badge)
+![OS](https://img.shields.io/static/v1?message=ArchLinux&logo=arch-linux&labelColor=5c5c5c&color=blueviolet&logoColor=white&label=OS&style=for-the-badge)
 ![Editor](https://img.shields.io/static/v1?message=VS_Code&logo=visual-studio-code&labelColor=5c5c5c&color=blueviolet&logoColor=white&label=Edirot&style=for-the-badge)
 ![Shell](https://img.shields.io/static/v1?message=Bash&logo=gnu-bash&labelColor=5c5c5c&color=blueviolet&logoColor=white&label=Shell&style=for-the-badge)
