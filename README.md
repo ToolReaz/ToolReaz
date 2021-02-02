@@ -17,7 +17,7 @@ Hi, I'm [Thomas W.](https://toolreaz.space/) (aka. ToolReaz), a passionate IT En
 ## My tech stack
 
 ### Languages
-![](https://img.shields.io/badge/-JavaScript-blueviolet?style=for-the-badge&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/%20-JavaScript-blueviolet?style=for-the-badge&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Language-HTML-blueviolet?style=for-the-badge&logo=html5&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Language-CSS-blueviolet?style=for-the-badge&logo=css3&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Language-CSS-blueviolet?style=for-the-badge&logo=css3&logoColor=white&color=6aa6f8)
