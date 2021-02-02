@@ -15,11 +15,16 @@ Hi, I'm [Thomas W.](https://toolreaz.space/) (aka. ToolReaz), a passionate IT En
 <br />
 
 ## My tech stack
-![](https://img.shields.io/badge/OS-ArchLinux-blueviolet?style=for-the-badge&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Language-JavaScript-blueviolet?style=for-the-badge&logo=javascript&logoColor=white&color=6aa6f8)
+
+### Languages
+![](https://img.shields.io/badge/-JavaScript-blueviolet?style=for-the-badge&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Language-HTML-blueviolet?style=for-the-badge&logo=html5&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Language-CSS-blueviolet?style=for-the-badge&logo=css3&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Language-CSS-blueviolet?style=for-the-badge&logo=css3&logoColor=white&color=6aa6f8)
+
+### Misc
+![](https://img.shields.io/badge/OS-ArchLinux-blueviolet?style=for-the-badge&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Framework-NodeJS-blueviolet?style=for-the-badge&logo=node.js&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Framework-React-blueviolet?style=for-the-badge&logo=react&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-blueviolet?style=for-the-badge&logo=gnu-bash&logoColor=white&color=6aa6f8)
