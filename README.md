@@ -25,9 +25,8 @@ Hi, I'm [Thomas W.](https://toolreaz.space/) (aka. ToolReaz), a passionate IT En
 ![](https://img.shields.io/badge/Shell-Bash-blueviolet?style=for-the-badge&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tool-Docker-blueviolet?style=for-the-badge&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tool-NodeRED-blueviolet?style=for-the-badge&logo=node-RED&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Framework-Electron-blueviolet?style=for-the-badge&logo=electron&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Framework-Fastify-blueviolet?style=for-the-badge&logo=fastify&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Database-MongoDB-blueviolet?style=for-the-badge&logo=mongodb&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Database-MySQL-blueviolet?style=for-the-badge&logo=mysql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tool-Office-blueviolet?style=for-the-badge&logo=microsoft-office&logoColor=white&color=6aa6f8)
-
-**Work in progress...**
