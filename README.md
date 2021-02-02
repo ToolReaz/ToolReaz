@@ -13,7 +13,7 @@ Hi, I'm [Thomas W.](https://toolreaz.space/) (aka. ToolReaz), a passionate IT En
 
 <br />
 <br />
-[![Visits Badge](https://badges.pufler.dev/visits/toolreaz/toolreaz)]
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=toolreaz&repo=toolreaz&countColorcountColor&countColor=%9532a8)
 <br />
 <br />
 
