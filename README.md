@@ -40,5 +40,5 @@ Hi, I'm [Thomas W.](https://toolreaz.space/) (aka. ToolReaz), a passionate IT En
 
 ### Misc
 ![OS](https://img.shields.io/static/v1?message=ArchLinux&logo=arch-linux&labelColor=5c5c5c&color=blueviolet&logoColor=white&label=OS&style=for-the-badge)
-![Editor](https://img.shields.io/static/v1?message=VS%20Code&logo=visual-studio-code&labelColor=5c5c5c&color=blueviolet&logoColor=white&label=Edirot&style=for-the-badge)
+![Editor](https://img.shields.io/static/v1?message=VS%20Code&logo=visual-studio-code&labelColor=5c5c5c&color=blueviolet&logoColor=white&label=Editor&style=for-the-badge)
 ![Shell](https://img.shields.io/static/v1?message=Bash&logo=gnu-bash&labelColor=5c5c5c&color=blueviolet&logoColor=white&label=Shell&style=for-the-badge)
